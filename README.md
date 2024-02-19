@@ -1,0 +1,2 @@
+# cyberspace
+static site
